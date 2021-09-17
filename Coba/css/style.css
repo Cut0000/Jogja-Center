@@ -1,0 +1,1327 @@
+.banner{
+    background-color: #1A254B ;
+}
+.banner1{
+    background-color: #AF2D2D;
+}
+.beranda{
+    position: absolute;
+    width: 139px;
+    height: 34px;
+    left: 1050px;
+    top: 15px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #F2F2F2;
+    width: 35px;
+    height: 0px;  
+    }
+
+
+.tagar1{
+    position: absolute;
+    width: 105px;
+    height: 25px;
+    left: 380px;
+    top: 780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+.tagar2{
+    position: absolute;
+    width: 230px;
+    height: 25px;
+    left: 490px;
+    top: 780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+.tagar3{
+    position: absolute;
+    width: 210px;
+    height: 25px;
+    left: 725px;
+    top: 780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+.next{
+    position: absolute;
+    width: 292px;
+    height: 50px;
+    left: 16px;
+    top: 850px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 30px;
+    
+    color: rgba(0, 0, 0, 0.6);
+    width: 60px;
+    height: 0px;
+    left: 23px;
+    
+
+    border: 3px solid #EFE7E7;
+
+}
+.diy{
+    background-color: #00587A;
+}
+
+.gambar1{
+    position: absolute;
+    width: 1349px;
+    height: 576px;
+    left: 0px;
+    top: 55px;  
+    background-size: cover;
+    background-image: url(D:/Slicing/Coba/img/pasar.png);
+}
+
+.pencarian{
+    
+}
+.pencarian1{
+   
+}
+.direktori{
+    position: absolute;
+    width: 374px;
+    height: 56px;
+    left: 24px;
+    top: 940px;
+    
+    font-family: Roboto;
+    font-style: bold;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    
+    color: #CE2323;  
+    }
+
+
+    .number1{
+        position: absolute;
+        width: 35px;
+        height: 30px;
+        left: 1220px;
+        top: 950px;
+        color: #FFFFFF;
+        background: #F05454;
+        border-radius: 35px;
+    }
+
+    .number2{
+        position: absolute;
+        width: 35px;
+        height: 30px;
+        left: 1260px;
+        top: 950px;
+        color: #FFFFFF;
+        background: #F05454;
+        border-radius: 35px;
+    }
+
+    .number3{
+        position: absolute;
+        width: 35px;
+        height: 30px;
+        left: 1300px;
+        top: 950px;
+        color: #FFFFFF;
+        background: #F05454;
+        border-radius: 35px;
+    }
+    .analisis1{
+        position: absolute;
+        width: 374px;
+        height: 350px;
+        left: 40px;
+        top: 1010px;
+        font-family: Varta Impact;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 35px;
+        line-height: 500px;
+        text-align: left;
+        
+        color: #FFFFFF;
+    
+        background: #EFE7E7;
+        border-radius: 27px;
+        background-size: cover;
+        background-image: url(D:/Slicing/Coba/img/halte.jpg);
+    }
+    .btn-details1{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 70px;
+        top: 280px;
+        color: #FFFFFF;
+        border: 3px solid #FFFFFF;
+ 
+    }
+    .analisis2{
+        position: absolute;
+        width: 374px;
+        height: 350px;
+        left: 500px;
+        top: 1010px;
+        font-family: Varta Impact;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 35px;
+        line-height: 500px;
+        text-align: left;
+        
+        color: #FFFFFF;
+    
+        background: #EFE7E7;
+        border-radius: 27px;
+        background-size: cover;
+        background-image: url(D:/Slicing/Coba/img/mobilitas.png);
+    }
+    .btn-details2{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 70px;
+        top: 280px;
+        color: #FFFFFF;
+        border: 3px solid #FFFFFF;
+ 
+    }
+    .analisis3{
+        position: absolute;
+        width: 374px;
+        height: 350px;
+        left: 950px;
+        top: 1010px;
+        font-family: Varta Impact;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 35px;
+        line-height: 500px;
+        text-align: left;
+        
+        color: #FFFFFF;
+    
+        background: #EFE7E7;
+        border-radius: 27px;
+        background-size: 750px;
+        background-image: url(D:/Slicing/Coba/img/tani.jfif);
+    }
+
+    .btn-details3{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 70px;
+        top: 280px;
+        color: #FFFFFF;
+        border: 3px solid #FFFFFF;
+        
+ 
+    }
+    .analisis4{
+        position: absolute;
+        width: 374px;
+        height: 350px;
+        left: 40px;
+        top: 1400px;
+        font-family: Varta Impact;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 35px;
+        line-height: 500px;
+        text-align: left;
+        
+        color: #FFFFFF;
+    
+        background: #EFE7E7;
+        border-radius: 27px;
+      
+    }
+    .btn-details4{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 70px;
+        top: 280px;
+        color: #FFFFFF;
+        border: 3px solid #FFFFFF;
+ 
+    }
+    .analisis5{
+        position: absolute;
+        width: 374px;
+        height: 350px;
+        left: 500px;
+        top: 1400px;
+        font-family: Varta Impact;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 35px;
+        line-height: 500px;
+        text-align: left;
+        
+        color: #FFFFFF;
+    
+        background: #EFE7E7;
+        border-radius: 27px;
+        
+    }
+    .btn-details5{
+        position: absolute;
+        width: 222px;
+        height: 49px;
+        left: 70px;
+        top: 280px;
+        color: #FFFFFF;
+        border: 3px solid #FFFFFF;
+ 
+    }
+
+    .next1{
+        position: absolute;
+        width: 292px;
+        height: 50px;
+        left: 24px;
+        top: 2300px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 32px;
+        line-height: 37px;
+
+        width: 60px;
+        height: 00px;
+        left: 23px;
+        color: rgba(0, 0, 0, 0.6);        
+        border: 3px solid #EFE7E7;
+                
+    }
+
+    .fitur1{
+        position: absolute;
+        width: 374px;
+        height: 56px;
+        left: 62px;
+        top: 2350px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 32px;
+        line-height: 37px;
+
+        color: #CE2323;
+
+        
+    }
+
+    .banner2{
+        position: absolute;
+        width: 1350px;
+        height: 500px;
+        left: 0px;
+        top: 2400px;
+        background: #EFE7E7;
+    }
+    .fitur2{
+        position: absolute;
+        width: 362px;
+        height: 350px;
+        left: 100px;
+        top: 2480px;
+        
+        background: rgba(196, 196, 196, 0.2);
+        background-image: url(D:/Slicing/Coba/img/tugu.png);
+
+    }
+
+    .btn-fit1{
+        position: absolute;
+        width: 364px;
+        height: 74px;
+        left: 0px;
+        top: 290px;
+
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 4px;
+        color: #CE6262;
+        text-align: center;
+
+    }
+
+    .fitur3{
+        position: absolute;
+        width: 362px;
+        height: 350px;
+        left: 500px;
+        top: 2480px;
+        
+        background: rgba(196, 196, 196, 0.2);
+        background-image: url(D:/Slicing/Coba/img/malioboro.png);
+    }
+    .fitur4{
+        position: absolute;
+        width: 362px;
+        height: 350px;
+        left: 900px;
+        top: 2480px;
+        
+        background: rgba(196, 196, 196, 0.2);
+        background-image: url(D:/Slicing/Coba/img/bringharjo.png);
+    }
+
+    .cipta{
+        position: absolute;
+        top: 3200px;
+        
+        font-family: Varela;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 70px;
+        display: flex-inside;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        width: 1350px;
+        height: 60px;
+        left: 0px;
+        
+        background: #AF2D2D;
+       
+      
+    }
+    .cipta1{
+        position: absolute;
+        top: 2000px;
+        
+        font-family: Varela;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 70px;
+        display: flex-inside;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        width: 1350px;
+        height: 60px;
+        left: 0px;
+        
+        background: #AF2D2D;
+    }
+    .cipta2{
+        position: absolute;
+        top: 1800px;
+        
+        font-family: Varela;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 70px;
+        display: flex-inside;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        width: 1350px;
+        height: 60px;
+        left: 0px;
+        
+        background: #AF2D2D;
+    }
+    .cipta3{
+        position: absolute;
+        top: 2200px;
+        
+        font-family: Varela;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 70px;
+        display: flex-inside;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        width: 1350px;
+        height: 60px;
+        left: 0px;
+        
+        background: #AF2D2D;
+    }
+    .halaman1{
+        width: 710px;
+        height: 40px;
+        left: 40px;
+        top: 100px;
+        position: absolute;
+        line-height: 40px;
+        background: #FFCD3C;
+        border-radius: 10px;
+        
+    }
+    .peta1{
+        position: absolute;
+        width: 800px;
+        height: 600px;
+        left: 44px;
+        top: 200px;
+        
+    
+    }
+    .peta2{
+        position: absolute;
+        width: 800px;
+        height: 600px;
+        left: 44px;
+        top: 400px;
+        
+    
+    }
+    .peta3{
+    position: absolute;
+    width: 1400x;
+    height: 1000px;
+    left: 44px;
+    top: 200px;
+
+    }
+    .peta4{
+        position: absolute;
+        width: 350x;
+        height: 150px;
+        left: 440px;
+        top: 660px;
+    
+        }
+    .jdl{
+        position: absolute;
+        width: 325px;
+        height: 51px;
+        left: 900px;
+        top: 190px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 33px;
+
+        color: #000000;
+    }
+    .jdl2{
+        position: absolute;
+        width: 325px;
+        height: 51px;
+        left: 900px;
+        top: 410px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 33px;
+
+        color: #000000;
+    }
+    .komentar{
+        position: absolute;
+        width: 325px;
+        height: 51px;
+        left: 900px;
+        top: 190px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 33px;
+        
+        color: #000000;
+    }
+
+    .all{
+        position: absolute;
+        width: 325px;
+        height: 51px;
+        left: 1240px;
+        top: 190px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 33px;
+        
+        color: #000000;
+    }
+
+    .frame{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+
+        position: absolute;
+        width: 400px;
+        height: 600px;
+        left: 900px;
+        top: 240px;
+
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+    }
+    .frame2{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+
+        position: absolute;
+        width: 400px;
+        height: 600px;
+        left: 900px;
+        top: 450px;
+
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+    }
+    .komen1{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 240px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+       
+    }
+    .komen2{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 360px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen3{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 490px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen4{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 600px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen5{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 720px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen6{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 550px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen7{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 860px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen8{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 330px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen9{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 600px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen10{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 250px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen11{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 350px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen12{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 450px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen13{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 550px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen14{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 650px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    .komen15{
+        position: absolute;
+        width: 340px;
+        height: 130px;
+        left: 905px;
+        top: 750px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1px;
+        line-height: 5px;
+        display: flex;
+        align-items: center;
+        color: #000000;
+    }
+    
+    .line1{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 360px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line2{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 480px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line3{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 600px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line4{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 720px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line6{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 750px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line7{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 520px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line8{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 360px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line9{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 440px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line10{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 555px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line11{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 645px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .line12{
+        position: absolute;
+        width: 400px;
+        height: 0px;
+        left: 900px;
+        top: 745px;
+ 
+        border: 1px solid #CFD8DC;
+    }
+    .balok{
+        position: absolute;
+        width: 600px;
+        height: 60px;
+        left: 50px;
+        top: 900px;
+
+        background: #dc3545;
+        border: 2px solid #FFFFFF;
+        box-sizing: border-box;
+        border-radius: 27px;
+    }
+    .balok2{
+        position: absolute;
+        width: 600px;
+        height: 60px;
+        left: 50px;
+        top: 1068px;
+
+        background: #dc3545;
+        border: 2px solid #FFFFFF;
+        box-sizing: border-box;
+        border-radius: 27px;
+    }
+    .group10{
+        
+    }
+
+    .sosmed{
+        position: absolute;
+        width: 750px;
+        height: 75px;
+        left: 50px;
+        top: 910px;
+
+    }
+    .sosmed2{
+        position: absolute;
+        width: 750px;
+        height: 75px;
+        left: 50px;
+        top: 1080px;
+
+    }
+    .attraction{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+        
+        position: absolute;
+        width: 300px;
+        height: 280px;
+        left: 45px;
+        top: 1650px;
+        line-height: 20px;
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+       
+    }
+    .accesable{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+
+        position: absolute;
+        width: 300px;
+        height: 280px;
+        left: 368px;
+        top: 1650px;
+
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+    }
+    .amenities{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+
+        position: absolute;
+        width: 300px;
+        height: 280px;
+        left: 690px;
+        top: 1650px;
+
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+    }
+    .ancilliary{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+
+        position: absolute;
+        width: 300px;
+        height: 280px;
+        left: 1010px;
+        top: 1650px;
+
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+    }
+    .jdlattraction{
+        position: absolute;
+        top: 1610px;
+        left: 140px;
+        color: #dc3545;
+       
+
+    }
+    .jdlaccesable{
+        position: absolute;
+        top: 1610px;
+        left: 450px;
+        color: #dc3545;
+    }
+    .jdlamenities{
+        position: absolute;
+        top: 1610px;
+        left: 780px;
+        color: #dc3545;
+    }
+    .jdlancilliary{
+        position: absolute;
+        top: 1610px;
+        left: 1105px;
+        color: #dc3545;
+    }
+    .grafik{
+        position: absolute;
+        top: 980px;
+        left: 0px;
+    }
+    .grafik2{
+        position: absolute;
+        top: 1160px;
+        left: 0px;
+    }
+    .grafik3{
+        position: absolute;
+        top: 950px;
+        left: 0px;
+    }
+    .grafik4{
+        position: absolute;
+        top: 950px;
+        left: 40px;
+    }
+    .total{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+        
+        position: absolute;
+        width: 300px;
+        height: 167px;
+        left: 55px;
+        top: 185px;
+        
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+        color: #dc3545;
+    }
+    .jumlah{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+        
+        position: absolute;
+        width: 300px;
+        height: 167px;
+        left: 370px;
+        top: 185px;
+        
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+        color: #dc3545;
+
+    }
+    .rata{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+        
+        position: absolute;
+        width: 300px;
+        height: 167px;
+        left: 685px;
+        top: 185px;
+        
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+        color: #dc3545;
+
+    }
+    .tanggal{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 0px;
+        
+        position: absolute;
+        width: 300px;
+        height: 167px;
+        left: 1000px;
+        top: 185px;
+        
+        background: #FFFFFF;
+        border: 1px solid #C4C4C4;
+        box-shadow: 0px 8px 8px rgba(50, 50, 71, 0.08), 0px 8px 16px rgba(50, 50, 71, 0.06);
+        border-radius: 20px;
+        color: #dc3545;
+  
+    }
+    .titik{
+        position: absolute;
+        width: 600px;
+        height: 60px;
+        left: 65px;
+        top: 880px;
+    }
+    .jumlahtitik{
+        position: absolute;
+        width: 600px;
+        height: 60px;
+        left: 280px;
+        top: 900px;
+
+    }
+    .presentase{
+        position: absolute;
+        width: 600px;
+        height: 60px;
+        left: 280px;
+        top: 1100px;
+    }
+    .cctv1{
+        position: absolute;
+        width: 400px;
+        height: 600px;
+        left: 900px;
+        top: 200px;
+        color: #dc3545;
+    }
+    .cctv2{
+        position: absolute;
+        width: 400px;
+        height: 600px;
+        left: 900px;
+        top: 450px;
+        color: #dc3545;
+    }
+    .cctv3{
+        position: absolute;
+        width: 400px;
+        height: 600px;
+        left: 900px;
+        top: 700px;
+        color: #dc3545;
+    }
+    .navbar.cipta{
+        
+    }
+    .navbar-fitur2{
+
+    }
+    .navbar-tagar1{
+       
+    }
+    .navbar-tagar2{
+       
+    }
+    .navbar-tagar3{
+
+    }
+    .navbar-analisis1{
+    }
+    .navbar-analisis2{
+
+    }
+    .navbar-analisis3{
+
+    }
+    .navbar-logo{
+  
+    }
+
+.navbar-diy{
+    
+}
+.navbar-button{
+
+}
+
+.navbar-gambar1{
+position: absolute;
+width: 1300px;
+height: 72px;
+left: 29px;
+top: 500px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #F2F2F2;
+
+}
+.navbar-pencarian{
+position: absolute;
+width: 903px;
+height: 75px;
+left: 250px;
+top: 714px;
+}
+.navbar-pencarian1{
+    position: absolute;
+    width: 365px;
+    height: 75px;
+    left: 950px;
+    top: 105px;
+    }
+
+.navbar-next{
+
+}
+
+.navbar-direktori{
+
+}
+
+.navbar-number1{
+
+}
+
+.navbar-number2{
+    
+}
+
+.navbar-number3{
+    
+}
